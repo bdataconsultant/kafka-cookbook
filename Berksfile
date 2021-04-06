@@ -11,3 +11,4 @@ cookbook 'conda', github: "logicalclocks/conda-chef", branch: "1.0"
 cookbook 'kzookeeper', github: "logicalclocks/kzookeeper", branch: "1.0"
 
 
+cookbook 'ark', '= 4.0.0'
